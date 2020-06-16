@@ -7,4 +7,4 @@ Fork, clone, play with the code and feel free to PR for any issues or new versio
  - The goal is to.. **Make Interesting form of Music using only Drums !!**
  - It is made using HTML, CSS and Javascript. 
  
-https://eshaan007.github.io/DrumKit/
+Made with :heart: by Eshaan Khurana.
