@@ -7,4 +7,4 @@ Fork, clone, play with the code and feel free to PR for any issues or new versio
  - The goal is to.. **Make Unique unheard beats using only Drums !!**
  - It is made using HTML, CSS and Javascript. 
  
-Made with :heart: by Eshaan Khurana.
+< Made with :heart: by Eshaan Khurana. >
